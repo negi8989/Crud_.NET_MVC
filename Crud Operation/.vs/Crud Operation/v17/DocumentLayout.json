@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|c:\\users\\salvastor\\source\\repos\\crud operation\\crud operation\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|c:\\users\\salvastor\\source\\repos\\crud operation\\crud operation\\controllers\\nodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\controllers\\nodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|c:\\users\\salvastor\\source\\repos\\crud operation\\crud operation\\modal\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\modal\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|c:\\users\\salvastor\\source\\repos\\crud operation\\crud operation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|c:\\users\\salvastor\\source\\repos\\crud operation\\crud operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|c:\\users\\salvastor\\source\\repos\\crud operation\\crud operation\\migrations\\20240601201149_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A47982-3812-4C35-B812-C86869392DCF}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\migrations\\20240601201149_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "Crud Operation\\Data\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:54:49.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodeController.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Controllers\\NodeController.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Controllers\\NodeController.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Controllers\\NodeController.cs",
+              "RelativeToolTip": "Crud Operation\\Controllers\\NodeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:20:27.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Program.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Program.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Program.cs",
+              "RelativeToolTip": "Crud Operation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:09:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\WeatherForecast.cs",
+              "RelativeToolTip": "Crud Operation\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:52:36.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Modal\\Node.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Modal\\Node.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Modal\\Node.cs",
+              "RelativeToolTip": "Crud Operation\\Modal\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:34:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240601201149_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Migrations\\20240601201149_CreateDb.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Migrations\\20240601201149_CreateDb.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\Crud Operation\\Crud Operation\\Migrations\\20240601201149_CreateDb.cs",
+              "RelativeToolTip": "Crud Operation\\Migrations\\20240601201149_CreateDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:11:50.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<all_active_nodes.Models.Node>
+
+@{
+    ViewData["Title"] = "Active Nodes";
+}
+
+<h1>Active Nodes</h1>
+
+<ul id="tree">
+    @Html.Partial("_NodePartial", Model.Where(n => n.ParentNodeId == null))
+</ul>
+
+<style>
+    ul, #tree {
+        list-style-type: none;
+    }
+
+    #tree {
+        margin: 0;
+        padding: 0;
+    }
+
+    .caret {
+        cursor: pointer;
+        user-select: none;
+    }
+
+        .caret::before {
+            content: "\25B6";
+            color: black;
+            display: inline-block;
+            margin-right: 6px;
+        }
+
+    .caret-down::before {
+        transform: rotate(90deg);
+    }
+
+    .nested {
+        display: none;
+    }
+
+    .active {
+        display: block;
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var togglers = document.getElementsByClassName("caret");
+        for (var i = 0; i < togglers.length; i++) {
+            togglers[i].addEventListener("click", function () {
+                this.parentElement.querySelector(".

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\views\\_nodepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\views\\_nodepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\views\\activenodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\views\\activenodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\controllers\\treecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\controllers\\treecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|c:\\users\\salvastor\\source\\repos\\all_active_nodes\\all_active_nodes\\all_active_nodes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D9DA6D9-AD12-4637-A6A7-919E9ED922E7}|all_active_nodes\\all_active_nodes.csproj|solutionrelative:all_active_nodes\\all_active_nodes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NodePartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\_NodePartial.cshtml",
+              "RelativeDocumentMoniker": "all_active_nodes\\Views\\_NodePartial.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\_NodePartial.cshtml",
+              "RelativeToolTip": "all_active_nodes\\Views\\_NodePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:07:26.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "all_active_nodes\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "all_active_nodes\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:05:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "all_active_nodes\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "all_active_nodes\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:05:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\appsettings.json",
+              "RelativeDocumentMoniker": "all_active_nodes\\appsettings.json",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\appsettings.json",
+              "RelativeToolTip": "all_active_nodes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T12:05:21.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActiveNodes.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\ActiveNodes.cshtml",
+              "RelativeDocumentMoniker": "all_active_nodes\\Views\\ActiveNodes.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Views\\ActiveNodes.cshtml",
+              "RelativeToolTip": "all_active_nodes\\Views\\ActiveNodes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:03:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreeController.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Controllers\\TreeController.cs",
+              "RelativeDocumentMoniker": "all_active_nodes\\Controllers\\TreeController.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Controllers\\TreeController.cs",
+              "RelativeToolTip": "all_active_nodes\\Controllers\\TreeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:01:21.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "all_active_nodes",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\all_active_nodes.csproj",
+              "RelativeDocumentMoniker": "all_active_nodes\\all_active_nodes.csproj",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\all_active_nodes.csproj",
+              "RelativeToolTip": "all_active_nodes\\all_active_nodes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T11:59:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "all_active_nodes\\Models\\Node.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Models\\Node.cs",
+              "RelativeToolTip": "all_active_nodes\\Models\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:58:17.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "all_active_nodes\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\all_active_nodes\\all_active_nodes\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "all_active_nodes\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:57:27.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

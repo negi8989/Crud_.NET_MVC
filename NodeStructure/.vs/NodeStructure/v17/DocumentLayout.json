@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\views\\tree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\views\\tree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\views\\partial view\\_nodepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\views\\partial view\\_nodepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\controllers\\treecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\controllers\\treecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|c:\\users\\salvastor\\source\\repos\\nodestructure\\nodestructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642053F8-760B-4A83-920B-106887DFA7FA}|NodeStructure\\NodeStructure.csproj|solutionrelative:nodestructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NodeStructure\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NodeStructure\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:44:52.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NodeStructure\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NodeStructure\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:54:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NodeStructure\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NodeStructure\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:54:32.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NodeStructure\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NodeStructure\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:54:29.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NodeStructure\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NodeStructure\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:54:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Tree\\Index.cshtml",
+              "RelativeDocumentMoniker": "NodeStructure\\Views\\Tree\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Tree\\Index.cshtml",
+              "RelativeToolTip": "NodeStructure\\Views\\Tree\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:53:07.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "NodeStructure\\Models\\Node.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Models\\Node.cs",
+              "RelativeToolTip": "NodeStructure\\Models\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:43:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_NodePartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Partial View\\_NodePartial.cshtml",
+              "RelativeDocumentMoniker": "NodeStructure\\Views\\Partial View\\_NodePartial.cshtml",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Views\\Partial View\\_NodePartial.cshtml",
+              "RelativeToolTip": "NodeStructure\\Views\\Partial View\\_NodePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:03:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NodeStructure\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NodeStructure\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:12:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TreeController.cs",
+              "DocumentMoniker": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Controllers\\TreeController.cs",
+              "RelativeDocumentMoniker": "NodeStructure\\Controllers\\TreeController.cs",
+              "ToolTip": "C:\\Users\\SALVASTOR\\source\\repos\\NodeStructure\\NodeStructure\\Controllers\\TreeController.cs",
+              "RelativeToolTip": "NodeStructure\\Controllers\\TreeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:45:29.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

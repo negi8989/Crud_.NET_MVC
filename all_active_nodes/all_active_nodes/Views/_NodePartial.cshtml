@@ -1,0 +1,16 @@
+﻿
+@model IEnumerable<all_active_nodes.Models.Node>
+
+@foreach (var node in Model)
+{
+    <li>
+        <span class="caret">@node.NodeName</span>
+        <input type="checkbox" @(node.IsActive ? "checked" : "") />
+        @if (Model.Any(n => n.ParentNodeId == node.NodeId))
+        {
+            <ul class="nested">
+                @Html.Partial("_NodePartial", Model.Where(n => n.ParentNodeId == node.NodeId))
+            </ul>
+        }
+    </li>
+}
